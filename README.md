@@ -29,7 +29,7 @@ The application allows users to manage employee records efficiently with operati
 ```
 Employee-Management-System/
 │
-├── main.py
+├── employee system.py
 ├── database.db
 ├── requirements.txt
 └── README.md
